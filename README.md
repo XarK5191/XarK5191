@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, my name is Ignat! 👋
 
-<!--
-**XarK5191/XarK5191** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me:
+- 🎓 Student of MGKDT;
+- 💻 Learning:
+- c++
+- Python
+- JS
 
-Here are some ideas to get you started:
+## Мои навыки
+- Python
+- Git
+- c++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Связаться со мной
+- Tg: -------------------------------------
+- Email:xdoxignat1@gmail.com
